@@ -2,7 +2,6 @@
 name = "fhspyenv"
 version = "0.1.0"
 description = ""
-authors = ["Robert Elles <elles.robert@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
